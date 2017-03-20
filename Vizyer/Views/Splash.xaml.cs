@@ -3,7 +3,7 @@ using Windows.ApplicationModel.Activation;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 
-namespace Vizyer.Views
+namespace Ktos.Vizyer.Views
 {
     public sealed partial class Splash : UserControl
     {

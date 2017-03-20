@@ -2,7 +2,7 @@ using System.Threading.Tasks;
 using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Navigation;
 
-namespace Vizyer.Views
+namespace Ktos.Vizyer.Views
 {
     public sealed partial class SettingsPage : Page
     {

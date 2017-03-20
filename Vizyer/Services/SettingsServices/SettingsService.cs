@@ -3,7 +3,7 @@ using Template10.Common;
 using Template10.Utils;
 using Windows.UI.Xaml;
 
-namespace Vizyer.Services.SettingsServices
+namespace Ktos.Vizyer.Services.SettingsServices
 {
     public class SettingsService
     {

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Template10.Services.NavigationService;
 using Windows.UI.Xaml.Navigation;
 
-namespace Vizyer.ViewModels
+namespace Ktos.Vizyer.ViewModels
 {
     public class MainPageViewModel : ViewModelBase
     {
@@ -43,10 +43,7 @@ namespace Vizyer.ViewModels
         {
             args.Cancel = false;
             await Task.CompletedTask;
-        }
-
-        public void GotoDetailsPage() =>
-            NavigationService.Navigate(typeof(Views.DetailPage), Value);
+        }        
 
         public void GotoSettings() =>
             NavigationService.Navigate(typeof(Views.SettingsPage), 0);

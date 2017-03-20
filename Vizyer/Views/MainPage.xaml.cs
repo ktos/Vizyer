@@ -1,11 +1,11 @@
 using System;
-using Vizyer.ViewModels;
+using Ktos.Vizyer.ViewModels;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Navigation;
 using System.Collections.ObjectModel;
 
-namespace Vizyer.Views
+namespace Ktos.Vizyer.Views
 {
     public sealed partial class MainPage : Page
     {

@@ -1,14 +1,14 @@
 using System;
 using Windows.UI.Xaml;
 using System.Threading.Tasks;
-using Vizyer.Services.SettingsServices;
+using Ktos.Vizyer.Services.SettingsServices;
 using Windows.ApplicationModel.Activation;
 using Template10.Mvvm;
 using Template10.Common;
 using System.Linq;
 using Windows.UI.Xaml.Data;
 
-namespace Vizyer
+namespace Ktos.Vizyer
 {
     /// Documentation on APIs used in this page:
     /// https://github.com/Windows-XAML/Template10/wiki
